@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @uaahacker Uaid Ullah!
+- 👋 Hi, I'm @uaahacker Ubaid Ullah!
 - 👀 Passionate about programming with expertise in Python, JavaScript, HTML, CSS, SQL, and C/C++.
 - 💞️ Eager to collaborate on projects for hands-on experience.
 - 📫 Reach me at ubaidawan244@gmail.com or 00923160778784. Let's code and create together!
