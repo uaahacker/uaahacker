@@ -1,5 +1,23 @@
 # 💫 About Me:
-🏴‍☠️ I’m currently working on<br>A Django-based SaaS dashboard and AI-powered content tools like quote-to-video generator and blog scrapers.<br><br>🧑‍🤝‍🧑 I’m looking to collaborate on<br>Open-source tools for cloud automation, DevOps pipelines, and security-focused backend projects.<br><br>🤝 I’m looking for help with<br>Marketing strategies for digital products and reaching global audiences on platforms like YouTube and Facebook.<br><br>🌱 I’m currently learning<br>Advanced DevOps (CI/CD, Docker, k8s), Cybersecurity fundamentals, and AI integrations with Python.<br><br>💬 Ask me about<br>Django, server deployment, DigitalOcean setup, GitLab pipelines, and bootstrapping cloud-based apps.<br><br>⚡ Fun fact<br>I’m turning creative tech experiments into actual SaaS tools while still studying software engineering!
+
+👨‍💻 I’m currently working on<br>
+Enterprise system integrations, backend applications, and workflow automations using **Python, Django, APIs, SQL, n8n, Supabase, and cloud infrastructure**.<br><br>
+
+🚀 I’m building<br>
+Production-ready **SaaS platforms, business dashboards, reporting solutions, AI automations, and integrations between platforms such as PMWeb, Maximo, Jira, and Odoo**.<br><br>
+
+🧑‍🤝‍🧑 I’m looking to collaborate on<br>
+Practical **Django projects, SaaS products, AI agents, system integrations, DevOps tools, and open-source backend solutions**.<br><br>
+
+🌱 I’m currently learning<br>
+Advanced **system design, AI agent workflows, DevOps, CI/CD, Docker, cloud architecture, cybersecurity, and reliable automation development**.<br><br>
+
+💬 Ask me about<br>
+**Django, REST APIs, n8n automation, SQL, enterprise integrations, GitHub/GitLab deployments, Cloudflare, Nginx, Docker, and production troubleshooting**.<br><br>
+
+⚡ Fun fact<br>
+I’m building real-world software for businesses while completing my software engineering studies and growing **Djangix** into an international software development studio.
+
 
 
 
