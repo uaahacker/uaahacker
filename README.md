@@ -1,3 +1,17 @@
+# Hi, I'm Ubaid Ullah 👋
+
+Software engineer & founder of **[Djangix](https://djangix.com)** — a software engineering studio building Django/Python backends, deployment pipelines, payment integrations, and AI automation for international clients.
+
+📍 Abbottabad, Pakistan
+
+**Find me / my work:**
+- 🌐 Studio: [djangix.com](https://djangix.com)
+- 📊 SafetyGraph — industrial incident intelligence: [ss.djangix.com](https://ss.djangix.com)
+- ✍️ dev.to: [dev.to/uaahacker](https://dev.to/uaahacker)
+- 📝 Hashnode: [djangix.hashnode.dev](https://djangix.hashnode.dev)
+
+---
+
 # 💫 About Me:
 
 👨‍💻 I’m currently working on<br>
